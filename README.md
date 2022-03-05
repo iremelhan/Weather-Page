@@ -6,3 +6,5 @@ The weather app lets you search up any location(city) in the world and get real-
 The aim of this project was to get familiar with how to interect with API using async await. It taught me to utilize an API effeciently and display the information fetched from the api. I consider this project as one of my best "learned from" one.
 
 
+To see my project
+Netlify link: https://weatherpageapp.netlify.app
